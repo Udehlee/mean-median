@@ -8,8 +8,10 @@ Welcome! This is a program that calculates the arithemetic mean and median of a 
 
 ## How to get working 
 1. Clone this repository
-2. Open in using any IDE of your choice
-3. run the command "go run main.go"
+2. cd into the repository
+3.  open the files using  any IDE of your choice
+4. run the command "go run main.go"
+
 
 ## Contributing
 I welcome all contributions that makes me an improved developer
